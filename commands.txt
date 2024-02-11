@@ -7,4 +7,4 @@ git commit -m "Message"
 
 git restore --staged file or
 git rm --cached<file>
-
+git log
